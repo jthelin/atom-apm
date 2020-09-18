@@ -43,7 +43,7 @@
     "first-mate": ">=3 <4",
     "git-utils": ">=3 <4",
     "mv": "2.0.0",
-    "open": "0.0.4",
+    "open": "7.2.1",
     "exit": "0.1.2"
   },
   "devDependencies": {
